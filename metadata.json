@@ -1,0 +1,15 @@
+{
+  "name": "puppet-compat",
+  "version": "0.1.0",
+  "author": "robzr",
+  "summary": "Puppet module for managing LDAP/NIS users & netgroups in passwd with compat mode syntax",
+  "license": "MIT",
+  "source": "https://github.com/robzr/compat",
+  "project_page": "https://github.com/robzr/compat",
+  "issues_url": "https://github.com/robzr/compat/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
